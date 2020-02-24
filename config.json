@@ -1,0 +1,12 @@
+{
+    "Origin": "CN4HRP7T9",
+    "Target": "GPMS7QHPH",
+    "searchMsg": "copy",
+    "searchEmail": "freelancer",
+    "searchSubject": "messages",
+    "searchBody": "freelancer",
+    "emailConstraints": [
+        "AD",
+        "SUB"
+    ]
+}
